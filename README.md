@@ -23,5 +23,14 @@ O site deveria ter as seguintes seções:
 - CSS: para estilizar o site com cores, fontes, bordas, margens, alinhamentos, efeitos e responsividade.
 
 ## 😎 veja a captura de tela do projeto a baixo:
+- computador
+![computador](imagens/capturas/computadorCaptura%20de%20tela%202023-11-20%20130427.png)
+<br>
 
-![imagem](img/leayout%20do%20youtube.png)
+- Ipad
+![Ipad](imagens/capturas/IpadCaptura%20de%20tela%202023-11-20%20130531.png)
+<br>
+
+- Telefone
+![telefone](imagens/capturas/TelefoneCaptura%20de%20tela%202023-11-20%20130548.png)
+
