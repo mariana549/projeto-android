@@ -2,7 +2,7 @@
 
 ## 🔗 Resultado
 
-O resultado do projeto foi um site bonito, informativo e funcional, que mostra o meu conhecimento e a minha paixão pelo Android.
+O resultado do projeto foi um site bonito, informativo e funcional.
 O site pode ser acessado no seguinte endereço: [Projeto Android](https://mariana549.github.io/leyout-do-youtube/](https://mariana549.github.io/projeto-android/)).
 
 ## 📝 Descrição
