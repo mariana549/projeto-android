@@ -31,6 +31,6 @@ O site deveria ter as seguintes seções:
 ![Ipad](imagens/capturas/IpadCaptura%20de%20tela%202023-11-20%20130531.png)
 <br>
 
-- Telefone
+- Telefone <br>
 ![telefone](imagens/capturas/TelefoneCaptura%20de%20tela%202023-11-20%20130548.png)
 
